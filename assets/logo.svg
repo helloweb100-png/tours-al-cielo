@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="256" height="256" role="img" aria-label="Tours al Cielo · López Tour">
+  <defs>
+    <linearGradient id="gm" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6FDCE3"/>
+      <stop offset=".55" stop-color="#14B8C4"/>
+      <stop offset="1" stop-color="#0A4D75"/>
+    </linearGradient>
+  </defs>
+  <circle cx="32" cy="32" r="31" fill="url(#gm)"/>
+  <circle cx="46" cy="15" r="4.2" fill="#FFC94A"/>
+  <path d="M6 25q6-5 13 0t13 0 13 0 13 0" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" opacity=".92"/>
+  <path d="M10 33q5-4 11 0t11 0 11 0 11 0" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" opacity=".55"/>
+  <path d="M32 12L37.88 25.91 52.92 27.2 41.51 37.09 44.93 51.8 32 44 19.07 51.8 22.49 37.09 11.08 27.2 26.12 25.91Z" fill="#FF7A33" stroke="#FF7A33" stroke-width="4" stroke-linejoin="round" transform="translate(32 45) scale(.62) translate(-32 -34)"/>
+</svg>
