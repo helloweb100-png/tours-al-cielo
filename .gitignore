@@ -7,3 +7,6 @@ Thumbs.db
 .DS_Store
 *.log
 .cache/
+
+# Fotos originales del cliente (sin optimizar): no se publican
+nuevas/

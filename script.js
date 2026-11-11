@@ -260,7 +260,7 @@
     const btns = $$("#route .route__btn");
     const hudNum = $("#hudNum");
     const hudName = $("#hudName");
-    const names = ["Arrecife Colombia", "Santuario de la Tortuga", "El Cielo", "Cielito"];
+    const names = ["Arrecife Colombia", "Santuario de la Tortuga", "El Cielo", "El Cielito"];
     if (!imgs.length) return;
     let cur = 0, timer = null;
 
